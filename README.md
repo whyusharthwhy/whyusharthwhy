@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whyusharthwhy
+- 👋 Hi, I’m Yusharth Singh
 - 👀 I’m interested in Quantum and Software Development.
 - 🌱 I’m currently learning to implement the skills that I have grown so far in a better manner.
 - 💞️ I’m looking to collaborate on Quantum and Web-Developments
